@@ -1,6 +1,6 @@
 # Nano
 
-Solution of [UmHelp back-end challenge](CHALLENGE.md)
+Solution of [UmHelp back-end challenge](CHALLENGE-EN.md)
 
 ## Getting Started
 
